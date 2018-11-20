@@ -5,15 +5,13 @@
 
 ## Register New Account
 
-##### Eail
 
-##### Password
+##### Eail              [                  ]
 
-##### Confirm Paswword]
+##### Password          [                  ]
+
+##### Confirm Paswword  [                  ]
 
 
 
 
-<footer>Put your name, date and period here</footer>
-
-</div>
