@@ -5,9 +5,13 @@
 
 ## Register New Account
 
-![description](xxxxxx.jpg) (insert a picture of a landmark at this college or university no bigger than 300x300\. Right click on the image in Chrome: Inspect Element; right click on highlighted code; copy; paste into your code in Notepad)
+![Eail]
 
-At Wilmington University, students have the opportunity to pursue a career and become a leader. It’s not just about meeting your potential, it’s about exceeding it.
+![Password]
+
+![Confirm Paswword]
+
+
 
 ## Location of school
 
